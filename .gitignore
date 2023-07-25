@@ -71,6 +71,8 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-#Testeoo
+#TesteoA
 Assets/Bakery/*
+
+#TesteoB
 Assets\Editor\x64\Bakery*
